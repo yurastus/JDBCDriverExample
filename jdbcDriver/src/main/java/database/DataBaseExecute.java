@@ -7,8 +7,11 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.HashMap;
+import com.mysqitl.jdbc.ResultSetMetaData;
 
-import com.mysql.jdbc.ResultSetMetaData;
+/**
+ * Simple JDBC example
+ */
 
 public class DataBaseExecute {
 
